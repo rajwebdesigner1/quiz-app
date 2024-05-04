@@ -52,7 +52,7 @@
   margin-top: 20px;
 }
 
-#option1 {
+#option-1 {
   display: block; /* Display each option on a separate line */
   padding: 8px 12px;
   margin-bottom: 10px; /* Add margin between each option */
@@ -62,12 +62,12 @@
   transition: background-color 0.3s ease;
 }
 
-#option1:hover {
+#option-1:hover {
   background-color: #3498db; /* Blue color */
   color: #fff;
 }
 
-#option2 {
+#option-2 {
   display: block; /* Display each option on a separate line */
   padding: 8px 12px;
   margin-bottom: 10px; /* Add margin between each option */
@@ -77,12 +77,12 @@
   transition: background-color 0.3s ease;
 }
 
-#option2:hover {
+#option-2:hover {
   background-color: #3498db; /* Blue color */
   color: #fff;
 }
 
-#option3 {
+#option-3 {
   display: block; /* Display each option on a separate line */
   padding: 8px 12px;
   margin-bottom: 10px; /* Add margin between each option */
@@ -92,12 +92,12 @@
   transition: background-color 0.3s ease;
 }
 
-#option3:hover {
+#option-3:hover {
   background-color: #3498db; /* Blue color */
   color: #fff;
 }
 
-#option4 {
+#option-4 {
   display: block; /* Display each option on a separate line */
   padding: 8px 12px;
   margin-bottom: 10px; /* Add margin between each option */
@@ -107,7 +107,7 @@
   transition: background-color 0.3s ease;
 }
 
-#option4:hover {
+#option-4:hover {
   background-color: #3498db; /* Blue color */
   color: #fff;
 }
